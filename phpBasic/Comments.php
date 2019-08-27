@@ -16,15 +16,10 @@
 //Drei Möglichkeiten um Kommentare im php-code zu verwenden
 
 
-
 #Perl Style Comments Single Line
 
 
-
-
 // C Style Comments Single Line
-
-
 
 
 /*
@@ -37,9 +32,7 @@
 
 ?>
 
-
 <!-- Was passier in Verbindung mit HTML? -->
-
 
 <!-- das wird ein Kommentar in dem php verwendet wird
 <?php echo "php war das !!!"?>
